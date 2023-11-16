@@ -4,7 +4,7 @@ public class OnlineBankingSystem {
 
 	public static void main(String[] args) {
 		
-		BankAccount obj = new BankAccount("Icici Bank", "23245435501");
+		BankAccount obj = new BankAccount("canara Bank", "20567891056");
 		obj.showMenu();	
 
 	}
